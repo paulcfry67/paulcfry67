@@ -1,5 +1,5 @@
 - 👋 @paulcfry67 here.
-- 👀 Interested in Linux, SQL, C/C++, Python
+- 👀 Interested in Linux, SQL, C/C++, Python, JavaScript
 - 💞️ collaborating on Linux scripting and C projects
 - 📫 paul.fry@flexresourcing.com, +1 216.496.9915
 
